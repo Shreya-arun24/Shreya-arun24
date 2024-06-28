@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Shreya-arun24 (Shreya Arun)
+# 👋 Hi, I’m @Shreya-arun24 (Shreya Arun)
+
 - 👀 I’m interested in AI and web development
 - 🌱 I’m currently learning artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on exciting AI projects and innovative web applications
@@ -6,8 +7,40 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love anime and drawing
 
+## Skills
 
-<!---
-Shreya-arun24/Shreya-arun24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:** 
+  - HTML
+  - CSS
+  - JavaScript
+  - Java
+  - C
+
+- **Tools:**
+  - Git
+  - GitHub
+  - Visual Studio Code
+  - MATLAB
+
+## Projects
+
+### AquaVerse
+AquaVerse is a project I'm working on, aiming to revolutionize water conservation with smart AI solutions.
+
+### Donation Form
+A web page designed for processing donations, featuring dynamic input handling and responsive UI.
+
+## Learning Journey
+
+Currently, I'm delving deeper into:
+- Artificial Intelligence
+- Machine Learning
+- Data Structures and Algorithms
+
+## Contact Me
+
+- Email: shreyaarun005@gmail.com
+
+---
+
+✨ This README is a special repository because its `README.md` appears on my GitHub profile. ✨
