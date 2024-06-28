@@ -30,6 +30,9 @@ AquaVerse is a project I'm working on, aiming to revolutionize water conservatio
 ### Donation Form
 A web page designed for processing donations, featuring dynamic input handling and responsive UI.
 
+### Movie Reccemendation System
+A project that reccemends movies by finding similar users.
+
 ## Learning Journey
 
 Currently, I'm delving deeper into:
