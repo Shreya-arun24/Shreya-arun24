@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shreya-arun24 (Shreya Arun)
+# 👋 Hi, I’m Shreya 
 
 - 👀 I’m interested in AI and web development
 - 🌱 I’m currently learning artificial intelligence and machine learning
