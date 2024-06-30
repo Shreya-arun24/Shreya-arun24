@@ -25,7 +25,7 @@
 ## Projects
 
 ### AquaVerse
-AquaVerse is a project I'm working on, aiming to revolutionize water conservation with smart AI solutions.
+AquaVerse is a project aiming to revolutionize water conservation,a simple webpage.
 
 ### Donation Form
 A web page designed for processing donations, featuring dynamic input handling and responsive UI.
@@ -41,7 +41,7 @@ A simple snake game made mainly using javascript.
 Currently, I'm delving deeper into:
 - Artificial Intelligence
 - Machine Learning
-- Data Structures and Algorithms
+
 
 ## Contact Me
 
