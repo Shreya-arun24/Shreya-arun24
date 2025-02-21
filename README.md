@@ -33,9 +33,6 @@ A web page designed for processing donations, featuring dynamic input handling a
 ### Movie Reccemendation System
 A project that reccemends movies by finding similar users.
 
-### Snake Game
-A simple snake game made mainly using javascript.
-
 ## Learning Journey
 
 Currently, I'm delving deeper into:
