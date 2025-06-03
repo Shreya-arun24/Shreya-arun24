@@ -9,7 +9,9 @@
 
 ## Skills
 
-- **Languages:** 
+- **Languages:**
+  - MATLAB
+  - Python3
   - HTML
   - CSS
   - JavaScript
@@ -21,17 +23,6 @@
   - GitHub
   - Visual Studio Code
   - MATLAB
-
-## Projects
-
-### AquaVerse
-AquaVerse is a project aiming to revolutionize water conservation,a simple webpage.
-
-### Donation Form
-A web page designed for processing donations, featuring dynamic input handling and responsive UI.
-
-### Movie Reccemendation System
-A project that reccemends movies by finding similar users.
 
 ## Learning Journey
 
